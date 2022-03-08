@@ -11,4 +11,4 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/sample-accelerators/node-express-test.git
+      url: https://github.com/aletor92/node-express-test.git
